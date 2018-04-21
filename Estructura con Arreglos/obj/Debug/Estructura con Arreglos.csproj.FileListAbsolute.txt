@@ -1,0 +1,40 @@
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe.config
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Form1.resources
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Properties.Resources.resources
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\source\repos\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe.config
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Form1.resources
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Properties.Resources.resources
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Form1.resources
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Properties.Resources.resources
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe.config
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura con Arreglos - copia\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe.config
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\bin\Debug\Estructura con Arreglos.pdb
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Form1.resources
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura_con_Arreglos.Properties.Resources.resources
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.exe
+C:\Users\JoséEnrique\Desktop\Estructura c\Estructura con Arreglos\obj\Debug\Estructura con Arreglos.pdb
