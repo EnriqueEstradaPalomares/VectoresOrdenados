@@ -37,12 +37,12 @@ namespace Estructura_con_Arreglos
             txtLista.Text = "Producto Eliminado";
         }
 
-        private void btnInsertar_Click(object sender, EventArgs e)
-        {
-            prod.insertar(Convert.ToInt32(txtCodigo.Text), txtNombre.Text, txtDesc.Text,
-                txtCantidad.Text, txtCosto.Text,Convert.ToInt16(txtPos.Text));
-            txtLista.Text = "Producto insertado";
-        }
+        //private void btnInsertar_Click(object sender, EventArgs e)
+        //{
+        //    prod.insertar(Convert.ToInt32(txtCodigo.Text), txtNombre.Text, txtDesc.Text,
+        //        txtCantidad.Text, txtCosto.Text,Convert.ToInt16(txtPos.Text));
+        //    txtLista.Text = "Producto insertado";
+        //}
 
         private void btnListar_Click(object sender, EventArgs e)
         {
@@ -57,6 +57,11 @@ namespace Estructura_con_Arreglos
             txtCantidad.Text = " ";
             txtCosto.Text = " ";
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //txtLista.Text = prod.ordenar();
         }
     }
 }

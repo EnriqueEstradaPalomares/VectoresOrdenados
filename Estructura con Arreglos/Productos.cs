@@ -9,7 +9,7 @@ namespace Estructura_con_Arreglos
     class Productos
     {
         private int ban = 0;
-        private struct producto{
+        private struct producto {
             public int codigo;
             public string nombre;
             public string descripcion;
@@ -28,21 +28,21 @@ namespace Estructura_con_Arreglos
             prod[ban].cantidad = cantidad;
             prod[ban].costo = costo;
             ban++;
-            ordenar();
+            //ordenar();
         }
 
         public string buscar(int codigo)
         {
             int code = 0;
             string data = "";
-            for(int i = 0; i < 15; i++)
+            for (int i = 0; i < 15; i++)
             {
                 code = Convert.ToInt16(prod[i].codigo);
                 if (code == codigo)
                 {
-                   data += "Codigo:" + prod[i].codigo + "| Nombre: " + prod[i].nombre
-                        + "| Descripcion: " + prod[i].descripcion +"| Cantidad: " + 
-                        prod[i].cantidad + "| Precio: $" + prod[i].costo + "\r\n";
+                    data += "Codigo:" + prod[i].codigo + "| Nombre: " + prod[i].nombre
+                         + "| Descripcion: " + prod[i].descripcion + "| Cantidad: " +
+                         prod[i].cantidad + "| Precio: $" + prod[i].costo + "\r\n";
                 }
             }
             return data;
@@ -50,14 +50,14 @@ namespace Estructura_con_Arreglos
 
         public void eliminar(int codigo)
         {
-            int code = 0, lugar=0;
-            for(int i = 0; i < 15; i++)
+            int code = 0, lugar = 0;
+            for (int i = 0; i < 15; i++)
             {
                 code = Convert.ToInt32(prod[i].codigo);
                 if (code == codigo)
                     lugar = i;
             }
-            for(int i = lugar; i < 15; i++)
+            for (int i = lugar; i < 15; i++)
             {
                 code = Convert.ToInt32(prod[i].codigo);
                 if (i < 14)
@@ -72,37 +72,43 @@ namespace Estructura_con_Arreglos
                     prod[i].cantidad = "0";
                     prod[i].costo = "0";
                 }
+                ordenar();
             }
         }
 
-        public void insertar(int codigo, string nombre,
-            string descripcion, string cantidad, string costo, int pos)
-        {
-            for (int i = 14; i > pos; i--)
-            {
-                prod[i] = prod[i - 1];
-            }
-            prod[pos].codigo = codigo; prod[pos].nombre = nombre; prod[pos].descripcion = descripcion;
-            prod[pos].cantidad = cantidad; prod[pos].costo = costo;
-        }
+        //public void insertar(int codigo, string nombre,
+        //    string descripcion, string cantidad, string costo, int pos)
+        //{
+        //    for (int i = 14; i > pos; i--)
+        //    {
+        //        prod[i] = prod[i - 1];
+        //    }
+        //    prod[pos].codigo = codigo; prod[pos].nombre = nombre; prod[pos].descripcion = descripcion;
+        //    prod[pos].cantidad = cantidad; prod[pos].costo = costo;
+        //}
 
         public string Listar()
         {
             string data = "";
-            for(int i = 0; i < ban; i++)
+            for (int i = 0; i < ban; i++)
             {
-                data += i+1 + ".- Codigo:" + prod[i].codigo + "| Nombre: " + prod[i].nombre + "| Descripcion: " + prod[i].descripcion +
+                data += i + 1 + ".- Codigo:" + prod[i].codigo + "| Nombre: " + prod[i].nombre + "| Descripcion: " + prod[i].descripcion +
                 "| Cantidad: " + prod[i].cantidad + "| Precio: $" + prod[i].costo + "\r\n";
             }
             return data;
         }
 
-        public void ordenar()
+        public void ordenar()//comenze con un void pero el problema persiste
         {
+            //int codigo = 0;
+            //string nombre = "";  esto lo trate de hacer con el metodo tradicional, pero es lo mismo deesta forma
+            //string des = "";
+            //string cantidad = "";
+            //string data = ""; para retornarme los datos
             producto temp;
-            for (int i = 0; i < 15; i++)
+            for (int i = 0; i < ban; i++)
             {
-                for (int j = 0; j < 15 - 1; j++)
+                for (int j = 0; j < ban - 1 ; j++)
                 {
                     if (prod[j].codigo > prod[j + 1].codigo)
                     {
@@ -112,6 +118,12 @@ namespace Estructura_con_Arreglos
                     }
                 }
             }
+            //for(int i = 0; i < ban; i++)
+            //{
+            //    data+= i + 1 + ".- Codigo:" + prod[i].codigo + "| Nombre: " + prod[i].nombre + "| Descripcion: " + prod[i].descripcion +
+            //    "| Cantidad: " + prod[i].cantidad + "| Precio: $" + prod[i].costo + "\r\n";
+            //}
+            //return data;
         }
     }
 }
