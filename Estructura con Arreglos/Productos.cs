@@ -28,7 +28,7 @@ namespace Estructura_con_Arreglos
             prod[ban].cantidad = cantidad;
             prod[ban].costo = costo;
             ban++;
-            //ordenar();
+            ordenar();
         }
 
         public string buscar(int codigo)
